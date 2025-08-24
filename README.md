@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte de um estudo prático para aprimorar mi
 
 - ✅ Inserir a **hora de entrada** e **hora de saída**.
 - ✅ Calcular automaticamente o total de **horas trabalhadas**.
-- ✅ Exibir o resultado no formato `HH:MM`.
+- ✅ Exibir o resultado no formato `HH:MM:SS`.
 - ✅ Interface simples e funcional, típica de aplicações Delphi.
 
 ---
