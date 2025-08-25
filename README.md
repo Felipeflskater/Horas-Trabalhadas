@@ -29,6 +29,16 @@ Você pode usar o programa diretamente sem instalar o Delphi:
 
 ---
 
+## 🐧 Compatível com Linux?
+
+Sim! O aplicativo foi testado com sucesso no **Linux** usando:
+- **Wine/Proton**
+- **Bottles** utilizando a configuração ¨Aplicativo¨ (recomendado para melhor experiência)
+
+👉 Basta baixar o `.exe` e executar dentro do Bottles ou outro gerenciador Wine.
+
+---
+
 ## 💻 Como Compilar (para desenvolvedores)
 
 Se deseja modificar o código-fonte:
